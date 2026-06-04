@@ -1,3 +1,10 @@
+node_modules/
 __pycache__/
 *.pyc
 .chrome-profile/
+.DS_Store
+build/
+build-verify/
+build-verify-modal/
+build-verify-polish/
+build-verify-ui/
